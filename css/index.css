@@ -67,7 +67,7 @@
 {
 	z-index: 11;
 	width: 1160px;
-	height: 699px;
+	height: 800px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -107,7 +107,7 @@
 #u2210
 {
 	z-index: 17;
-	height: 699px;
+	height: 800px;
 	background-color: #A9A3A0;
 	background-color: rgba(83,71,65,0.5);
 	position: fixed;
