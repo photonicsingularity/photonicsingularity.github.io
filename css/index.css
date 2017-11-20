@@ -43,18 +43,14 @@
 	height: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -700px;
+	margin-top: -701px;
 	left: 255px;
 }
 
 #u864
 {
 	width: 1160px;
-<<<<<<< HEAD
 	height: 700px;
-=======
-	height: 699px;
->>>>>>> parent of 5a881e3... Alpha Release v0.0.6
 	background-color: transparent;
 	position: fixed;
 	top: 0px;
@@ -71,15 +67,7 @@
 {
 	z-index: 11;
 	width: 1160px;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	height: 700px;
-=======
-	height: 699px;
->>>>>>> parent of 65897fd... Alpha Release v0.0.7
-=======
-	height: 699px;
->>>>>>> parent of 65897fd... Alpha Release v0.0.7
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -91,11 +79,7 @@
 {
 	z-index: 13;
 	width: 1160px;
-<<<<<<< HEAD
 	height: 700px;
-=======
-	height: 699px;
->>>>>>> parent of 5a881e3... Alpha Release v0.0.6
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -107,11 +91,7 @@
 {
 	z-index: 15;
 	width: 1160px;
-<<<<<<< HEAD
 	height: 700px;
-=======
-	height: 699px;
->>>>>>> parent of 5a881e3... Alpha Release v0.0.6
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -127,15 +107,7 @@
 #u2210
 {
 	z-index: 17;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	height: 700px;
-=======
-	height: 699px;
->>>>>>> parent of 65897fd... Alpha Release v0.0.7
-=======
-	height: 699px;
->>>>>>> parent of 65897fd... Alpha Release v0.0.7
 	background-color: #A9A3A0;
 	background-color: rgba(83,71,65,0.5);
 	position: fixed;
@@ -246,7 +218,7 @@
 	width: 59px;
 	height: 50px;
 	position: fixed;
-	top: 647px;
+	top: 747px;
 	left: 1px;
 	background: transparent url("../images/cbmunlogo.png") no-repeat center center;
 	background-size: cover;
@@ -260,7 +232,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
-	top: 655px;
+	top: 755px;
 	left: 436px;
 }
 
@@ -642,7 +614,7 @@
 #u989
 {
 	z-index: 18;
-	height: 700px;
+	height: 699px;
 	background: transparent url("../images/capmun%20yes%20blurred.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -650,7 +622,7 @@
 #u989-bw
 {
 	z-index: 18;
-	height: 700px;
+	height: 699px;
 }
 
 #u2211
