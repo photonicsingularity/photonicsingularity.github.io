@@ -1,0 +1,167 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.cbmun" resolutions="1x" timestamp="1484587978230">
+  <folder name="css">
+    <file name="site_global.css" crc="123961904"/>
+    <file name="master_a-master.css" crc="521421313" ref="about:resources:gallery:news:faq:index:our-team"/>
+    <file name="about.css" crc="4087296357" ref="about"/>
+    <file name="iefonts_about.css" crc="4228126774" ref="about"/>
+    <file name="resources.css" crc="95149746" ref="resources"/>
+    <file name="gallery.css" crc="44854928" ref="gallery"/>
+    <file name="news.css" crc="502547247" ref="news"/>
+    <file name="faq.css" crc="3959164834" ref="faq"/>
+    <file name="iefonts_faq.css" crc="4242982456" ref="faq"/>
+    <file name="index.css" crc="4019654068" ref="index"/>
+    <file name="iefonts_index.css" crc="4245350960" ref="index"/>
+    <file name="our-team.css" crc="466862931" ref="our-team"/>
+  </folder>
+  <folder name="assets">
+    <file name="--mt---toolbox---google-calendar-(1.0).mulib" crc="4092564262" seo="true" mt="1481312295000"/>
+    <file name="-mr--elegant-white-contact-form.mulib" crc="226818246" seo="true" mt="1383517980000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="museutils.js" crc="183364071" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="webpro.js" crc="3803554875" ref="index:about:our-team:gallery"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:our-team:gallery"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:our-team:gallery"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:our-team:gallery"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:about:our-team:faq"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="form_check.php" crc="277267350" ref="about"/>
+    <file name="form_throttle.php" crc="3908387251" ref="about"/>
+    <file name="form_process.php" crc="24249335" ref="about"/>
+    <file name="form-u2805.php" crc="168380199" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="city hall conference discussion blurred.jpg" crc="4159568192" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:our-team:gallery"/>
+    <file name="city hall conference photo blurred.jpg" crc="4106560782" seo="true" ref="index"/>
+    <file name="capmun 2015 committee 1 blurred.jpg" crc="4273568075" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:our-team:gallery"/>
+    <file name="u2281.png" crc="535194907" ref="index"/>
+    <file name="u2281-r.png" crc="4264352384" ref="index"/>
+    <file name="cbmunlogo.png" crc="347877924" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="capmun yes blurred.jpg" crc="168290412" ref="index"/>
+    <file name="un.png" crc="221576519" ref="index"/>
+    <file name="billcircleface.jpg" crc="207560869" ref="index"/>
+    <file name="capmun sideback blurred.jpg" crc="27074252" ref="index"/>
+    <file name="email white.png" crc="3764692299" seo="true" ref="index:about:our-team:news:resources:gallery:faq"/>
+    <file name="capmun cbmun2 blurred.jpg" crc="3833314388" ref="about"/>
+    <file name="canimun bill side.jpg" crc="466253395" ref="about"/>
+    <file name="capmun back.jpg" crc="5549725" ref="about"/>
+    <file name="capmun close.jpg" crc="7264704" ref="about"/>
+    <file name="canimun bill down.jpg" crc="277190480" ref="about"/>
+    <file name="capmun point.jpg" crc="4227221714" ref="about"/>
+    <file name="u2821-17.png" crc="427876382" ref="about"/>
+    <file name="u2821-17-r.png" crc="3973558566" ref="about"/>
+    <file name="u2821-17-m.png" crc="4220960522" ref="about"/>
+    <file name="u2821-17-fs.png" crc="3847533489" ref="about"/>
+    <file name="canimun 2015 ga blurred.jpg" crc="3912644740" ref="our-team"/>
+    <file name="billface.png" crc="3894298098" seo="true" ref="our-team"/>
+    <file name="billface151x151.png" crc="4196110527" seo="true" ref="our-team"/>
+    <file name="billface145x145.png" crc="4153407015" seo="true" ref="our-team"/>
+    <file name="jackportrait.png" crc="3823846720" seo="true" ref="our-team"/>
+    <file name="ashtynportrait.png" crc="201401719" seo="true" ref="our-team"/>
+    <file name="ashtynportrait151x151.png" crc="4020515312" seo="true" ref="our-team"/>
+    <file name="ashtynportrait148x148.png" crc="123223648" seo="true" ref="our-team"/>
+    <file name="eye-u2725-fr.png" crc="4264294728" ref="our-team"/>
+    <file name="eye-u2725-r-fr.png" crc="3769578624" ref="our-team"/>
+    <file name="capmun what.jpg" crc="514217330" ref="resources"/>
+    <file name="_dsc0025.jpg" crc="4251566478" seo="true" ref="gallery"/>
+    <file name="_dsc0026.jpg" crc="404019111" seo="true" ref="gallery"/>
+    <file name="_dsc0027.jpg" crc="3903393781" seo="true" ref="gallery"/>
+    <file name="_dsc0028.jpg" crc="76768044" seo="true" ref="gallery"/>
+    <file name="_dsc0029.jpg" crc="4073698213" seo="true" ref="gallery"/>
+    <file name="_dsc0030.jpg" crc="263073236" seo="true" ref="gallery"/>
+    <file name="_dsc0031.jpg" crc="3841563237" seo="true" ref="gallery"/>
+    <file name="_dsc0032.jpg" crc="89159370" seo="true" ref="gallery"/>
+    <file name="_dsc0033.jpg" crc="3831035710" seo="true" ref="gallery"/>
+    <file name="_dsc0034.jpg" crc="11857709" seo="true" ref="gallery"/>
+    <file name="_dsc0035.jpg" crc="496079709" seo="true" ref="gallery"/>
+    <file name="_dsc0036.jpg" crc="3772280150" seo="true" ref="gallery"/>
+    <file name="_dsc0037.jpg" crc="3865279151" seo="true" ref="gallery"/>
+    <file name="_dsc0038.jpg" crc="137410032" seo="true" ref="gallery"/>
+    <file name="_dsc0039.jpg" crc="253839577" seo="true" ref="gallery"/>
+    <file name="_dsc0040.jpg" crc="316056463" seo="true" ref="gallery"/>
+    <file name="_dsc0041.jpg" crc="62528210" seo="true" ref="gallery"/>
+    <file name="_dsc0042.jpg" crc="497221540" seo="true" ref="gallery"/>
+    <file name="_dsc0043.jpg" crc="329242262" seo="true" ref="gallery"/>
+    <file name="_dsc0044.jpg" crc="438957254" seo="true" ref="gallery"/>
+    <file name="_dsc0045.jpg" crc="4221777238" seo="true" ref="gallery"/>
+    <file name="_dsc0046.jpg" crc="163704034" seo="true" ref="gallery"/>
+    <file name="_dsc0047.jpg" crc="4284727470" seo="true" ref="gallery"/>
+    <file name="_dsc0048.jpg" crc="3980837721" seo="true" ref="gallery"/>
+    <file name="_dsc0049.jpg" crc="65110303" seo="true" ref="gallery"/>
+    <file name="_dsc0050.jpg" crc="4081396917" seo="true" ref="gallery"/>
+    <file name="_dsc0053.jpg" crc="351828991" seo="true" ref="gallery"/>
+    <file name="_dsc0054.jpg" crc="3847725046" seo="true" ref="gallery"/>
+    <file name="_dsc0055.jpg" crc="178756262" seo="true" ref="gallery"/>
+    <file name="_dsc0056.jpg" crc="180892260" seo="true" ref="gallery"/>
+    <file name="_dsc0057.jpg" crc="330226479" seo="true" ref="gallery"/>
+    <file name="_dsc0058.jpg" crc="4118037469" seo="true" ref="gallery"/>
+    <file name="_dsc0059.jpg" crc="4183273719" seo="true" ref="gallery"/>
+    <file name="_dsc0060.jpg" crc="3994264061" seo="true" ref="gallery"/>
+    <file name="_dsc0061.jpg" crc="3780185710" seo="true" ref="gallery"/>
+    <file name="_dsc0062.jpg" crc="85651208" seo="true" ref="gallery"/>
+    <file name="_dsc0063.jpg" crc="452927388" seo="true" ref="gallery"/>
+    <file name="_dsc0064.jpg" crc="4054206216" seo="true" ref="gallery"/>
+    <file name="_dsc0065.jpg" crc="3903107432" seo="true" ref="gallery"/>
+    <file name="_dsc0066.jpg" crc="261699794" seo="true" ref="gallery"/>
+    <file name="_dsc0067.jpg" crc="390550566" seo="true" ref="gallery"/>
+    <file name="_dsc0068.jpg" crc="28927970" seo="true" ref="gallery"/>
+    <file name="_dsc0025160x107.jpg" crc="3842909575" seo="true" ref="gallery"/>
+    <file name="_dsc0026160x107.jpg" crc="3780919668" seo="true" ref="gallery"/>
+    <file name="_dsc0027160x107.jpg" crc="18588457" seo="true" ref="gallery"/>
+    <file name="_dsc0028160x107.jpg" crc="4188849142" seo="true" ref="gallery"/>
+    <file name="_dsc0029160x107.jpg" crc="4141464343" seo="true" ref="gallery"/>
+    <file name="_dsc0030160x107.jpg" crc="159822623" seo="true" ref="gallery"/>
+    <file name="_dsc0031160x107.jpg" crc="495650735" seo="true" ref="gallery"/>
+    <file name="_dsc0032160x107.jpg" crc="503989114" seo="true" ref="gallery"/>
+    <file name="_dsc0033160x107.jpg" crc="358543340" seo="true" ref="gallery"/>
+    <file name="_dsc0034160x107.jpg" crc="4052572176" seo="true" ref="gallery"/>
+    <file name="_dsc0035160x107.jpg" crc="366039545" seo="true" ref="gallery"/>
+    <file name="_dsc0036160x107.jpg" crc="65524461" seo="true" ref="gallery"/>
+    <file name="_dsc0037160x107.jpg" crc="232330615" seo="true" ref="gallery"/>
+    <file name="_dsc0038160x107.jpg" crc="19357178" seo="true" ref="gallery"/>
+    <file name="_dsc0039160x107.jpg" crc="472666959" seo="true" ref="gallery"/>
+    <file name="_dsc0040160x107.jpg" crc="98412388" seo="true" ref="gallery"/>
+    <file name="_dsc0041160x107.jpg" crc="374850707" seo="true" ref="gallery"/>
+    <file name="_dsc0042160x107.jpg" crc="225736485" seo="true" ref="gallery"/>
+    <file name="_dsc0043160x107.jpg" crc="87506801" seo="true" ref="gallery"/>
+    <file name="_dsc0044160x107.jpg" crc="4265662147" seo="true" ref="gallery"/>
+    <file name="_dsc0045160x107.jpg" crc="3771776015" seo="true" ref="gallery"/>
+    <file name="_dsc0046160x107.jpg" crc="67984058" seo="true" ref="gallery"/>
+    <file name="_dsc0047160x107.jpg" crc="3975304592" seo="true" ref="gallery"/>
+    <file name="_dsc0048160x107.jpg" crc="3790037450" seo="true" ref="gallery"/>
+    <file name="_dsc0049160x107.jpg" crc="3822314557" seo="true" ref="gallery"/>
+    <file name="_dsc0050160x107.jpg" crc="3974878321" seo="true" ref="gallery"/>
+    <file name="_dsc0053160x107.jpg" crc="4086198715" seo="true" ref="gallery"/>
+    <file name="_dsc0054160x107.jpg" crc="309581368" seo="true" ref="gallery"/>
+    <file name="_dsc0055160x107.jpg" crc="504357763" seo="true" ref="gallery"/>
+    <file name="_dsc0056160x107.jpg" crc="3962087177" seo="true" ref="gallery"/>
+    <file name="_dsc0057160x107.jpg" crc="492968549" seo="true" ref="gallery"/>
+    <file name="_dsc0058160x107.jpg" crc="3990514199" seo="true" ref="gallery"/>
+    <file name="_dsc0059160x107.jpg" crc="4055476748" seo="true" ref="gallery"/>
+    <file name="_dsc0060160x107.jpg" crc="4182170774" seo="true" ref="gallery"/>
+    <file name="_dsc0061160x107.jpg" crc="4026589966" seo="true" ref="gallery"/>
+    <file name="_dsc0062160x107.jpg" crc="462019608" seo="true" ref="gallery"/>
+    <file name="_dsc0063160x107.jpg" crc="4245129780" seo="true" ref="gallery"/>
+    <file name="_dsc0064160x107.jpg" crc="21221474" seo="true" ref="gallery"/>
+    <file name="_dsc0065160x107.jpg" crc="4236107018" seo="true" ref="gallery"/>
+    <file name="_dsc0066160x107.jpg" crc="3983280714" seo="true" ref="gallery"/>
+    <file name="_dsc0067160x107.jpg" crc="4155575821" seo="true" ref="gallery"/>
+    <file name="_dsc0068160x107.jpg" crc="4102736402" seo="true" ref="gallery"/>
+    <file name="capmun smile blurred.jpg" crc="233304027" ref="faq"/>
+    <file name="capmun social.jpg" crc="38504840" ref="faq"/>
+  </folder>
+  <file name="index.html" crc="211717561" seo="true" mt="1484261741315" redirect="true"/>
+  <file name="about.html" crc="3988410763" seo="true" mt="1484261753419" redirect="true"/>
+  <file name="our-team.html" crc="4042293102" seo="true" mt="1484194250782" redirect="true"/>
+  <file name="news.html" crc="4009864336" seo="true" mt="1484194250782" redirect="true"/>
+  <file name="resources.html" crc="4147314952" seo="true" mt="1484194250782" redirect="true"/>
+  <file name="gallery.html" crc="82464590" seo="true" mt="1484194340998" redirect="true"/>
+  <file name="faq.html" crc="4237104645" seo="true" mt="1484194250782" redirect="true"/>
+</manifest>

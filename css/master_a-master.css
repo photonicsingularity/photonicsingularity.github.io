@@ -1,0 +1,38 @@
+#u1833
+{
+	background-color: #544F8B;
+}
+
+#u1833_align_to_page
+{
+	position: relative;
+}
+
+#u1835-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: pt-serif, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2292
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2292:hover
+{
+	background-color: transparent;
+}
+
+#u2292_img:hover
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
