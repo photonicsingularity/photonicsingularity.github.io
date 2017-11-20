@@ -50,7 +50,11 @@
 #u864
 {
 	width: 1160px;
+<<<<<<< HEAD
 	height: 700px;
+=======
+	height: 699px;
+>>>>>>> parent of 5a881e3... Alpha Release v0.0.6
 	background-color: transparent;
 	position: fixed;
 	top: 0px;
@@ -79,7 +83,11 @@
 {
 	z-index: 13;
 	width: 1160px;
+<<<<<<< HEAD
 	height: 700px;
+=======
+	height: 699px;
+>>>>>>> parent of 5a881e3... Alpha Release v0.0.6
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -91,7 +99,11 @@
 {
 	z-index: 15;
 	width: 1160px;
+<<<<<<< HEAD
 	height: 700px;
+=======
+	height: 699px;
+>>>>>>> parent of 5a881e3... Alpha Release v0.0.6
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
